@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: simple Plot Table
+description: Align tables to plots in ggplot
+redirect: https://github.com/Schmytzi/simplePlotTable
+img: 
+importance: 2
+category: code
 ---
 
 Every project has a beautiful feature showcase page.
