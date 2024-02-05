@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - schmytzi
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - AJResearchGroup/cnv-nsphs
+  - Schmytzi/ldpred-prs-manual
+  - Schmytzi/simplePlotTable
+  - Schmytzi/mahjong-tex
+  - Schmytzi/seminars
+  - Schmytzi/cv
