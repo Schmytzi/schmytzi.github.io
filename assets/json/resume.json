@@ -148,9 +148,7 @@
       "name": "Java",
       "level": "Advanced",
       "icon": "fa-brands fa-java",
-      "keywords": [
-        "Application Development with JavaFX"
-      ]
+      "keywords": []
     },
     {
       "name": "SQL",
