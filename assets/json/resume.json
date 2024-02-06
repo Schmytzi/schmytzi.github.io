@@ -20,6 +20,45 @@
       }
     ]
   },
+  "education": [
+    {
+      "institution": "Uppsala University",
+      "location": "Uppsala, Sweden",
+      "url": "https://www.uu.se/",
+      "area": "Medical Genetics",
+      "studyType": "PhD",
+      "startDate": "2019-09-01",
+      "endDate": "2024-02-02",
+      "courses": ["Thesis: <i>Beyond GWAS: Novel Methods and Resources for Genetic Epidemiology</i>"]
+    },
+    {
+      "institution": "Brazilian National Cancer Institute, Laboratory for Bioinformatics and Computational Biology (INCA-LBBC)",
+      "location": "Rio de Janeiro, Brazil",
+      "url": "https://sites.google.com/view/bioinformaticainca/",
+      "area": "Cancer Transcriptomics",
+      "studyType": "Exchange PhD student",
+      "startDate": "2023-09-02",
+      "endDate": "2023-11-29"
+    },
+    {
+      "institution": "Ludwig-Maximilians-Universität and Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.uu.se/",
+      "area": "Bioinformatics",
+      "studyType": "Master of Science",
+      "startDate": "2017-10-01",
+      "endDate": "2019-01-31"
+    },
+    {
+      "institution": "Ludwig-Maximilians-Universität and Technical University of Munich",
+      "location": "Munich, Germany",
+      "url": "https://www.uu.se/",
+      "area": "Bioinformatics",
+      "studyType": "Bachelor of Science",
+      "startDate": "2013-10-01",
+      "endDate": "2017-06-31"
+    }
+  ],
   "work": [
     {
       "name": "Center for Human Genetics and Laboratory Diagnostics",
@@ -98,45 +137,6 @@
       "location" : "Munich, Germany"
     }
   ],
-  "education": [
-    {
-      "institution": "Uppsala University",
-      "location": "Uppsala, Sweden",
-      "url": "https://www.uu.se/",
-      "area": "Medical Genetics",
-      "studyType": "PhD",
-      "startDate": "2019-09-01",
-      "endDate": "2024-02-02",
-      "courses": ["Thesis: <i>Beyond GWAS: Novel Methods and Resources for Genetic Epidemiology</i>"]
-    },
-    {
-      "institution": "Brazilian National Cancer Institute, Laboratory for Bioinformatics and Computational Biology (INCA-LBBC)",
-      "location": "Rio de Janeiro, Brazil",
-      "url": "https://sites.google.com/view/bioinformaticainca/",
-      "area": "Cancer Transcriptomics",
-      "studyType": "Exchange PhD student",
-      "startDate": "2023-09-02",
-      "endDate": "2023-11-29"
-    },
-    {
-      "institution": "Ludwig-Maximilians-Universität and Technical University of Munich",
-      "location": "Munich, Germany",
-      "url": "https://www.uu.se/",
-      "area": "Bioinformatics",
-      "studyType": "Master of Science",
-      "startDate": "2017-10-01",
-      "endDate": "2019-01-31"
-    },
-    {
-      "institution": "Ludwig-Maximilians-Universität and Technical University of Munich",
-      "location": "Munich, Germany",
-      "url": "https://www.uu.se/",
-      "area": "Bioinformatics",
-      "studyType": "Bachelor of Science",
-      "startDate": "2013-10-01",
-      "endDate": "2017-06-31"
-    }
-  ],
   "skills": [
     {
       "name": "R",
@@ -151,8 +151,29 @@
       "keywords": []
     },
     {
-      "name": "SQL",
+      "name": "Nextflow",
       "level": "Advanced",
+      "icon": "fa-solid fa-shuffle",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "UNIX shell",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-terminal",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermediate",
+      "icon": "fa-brands fa-python",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "SQL",
+      "level": "Intermediate",
       "icon": "fa-solid fa-table",
       "keywords": [
       ]
@@ -175,27 +196,6 @@
       "name": "Perl",
       "level": "Intermediate",
       "icon": "fa-solid fa-code",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "UNIX shell",
-      "level": "Intermediate",
-      "icon": "fa-solid fa-terminal",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Intermediate",
-      "icon": "fa-brands fa-python",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Nextflow",
-      "level": "Intermediate",
-      "icon": "fa-solid fa-shuffle",
       "keywords": [
       ]
     },
