@@ -61,10 +61,19 @@
   ],
   "work": [
     {
+      "name": "Uppsala University",
+      "location" : "Uppsala, Sweden",
+      "position": "Researcher",
+      "startDate": "2024-03-01",
+      "endDate": "present",
+      "summary": "Medical Genetics, Genetic Epidemiology, Bioinformatics",
+      "highlights": []
+    },
+    {
       "name": "Center for Human Genetics and Laboratory Diagnostics",
       "location" : "Planegg, Germany",
       "position": "Bioinformatics Assistant/Software Developer",
-      "startDate": "2014-03-01",
+      "startDate": "2014-10-01",
       "endDate": "2019-06-31",
       "summary": "Software development for clinical genetics",
       "highlights": [
