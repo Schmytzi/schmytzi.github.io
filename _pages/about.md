@@ -7,7 +7,7 @@ subtitle: Bioinformatician, Queer Activist
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 news: false # includes a list of news items
@@ -17,13 +17,12 @@ social: true # includes social icons at the bottom of the page
 ---
 Hi, I'm Daniel but most people call me Schmytzi!
 
-I'm a bioinformatician based in Uppsala, Sweden, and recently got my PhD!
-I work with whole-genome sequencing data in large cohorts to find links between genetic variants and complex traits.
-Before that, I was born and raised around Berlin and got my Bachelor's and Master's in Munich.
+I'm a bioinformatician based in Gothenburg, Sweden.
+I work in clinical genetics focusing on rare diseases, whole-genome sequencing and long-read sequencing.
+Before that, I got my PhD in medical science identifying links between genetic variants and complex traits in large cohorts.
 
 Find my publications on [Google Scholar](https://scholar.google.com/citations?user=mNKN6GQAAAAJ) and [ORCiD](https://orcid.org/0000-0003-4480-891X).
 You can also download a [copy of my CV from GitHub](https://github.com/Schmytzi/cv/releases/latest/download/cv.pdf).
 
-When I'm not busy doing research, I am politically active at [RFSL Uppsala](https://uppsala.rfsl.se), where I used to be chairperson.
+When I'm not busy doing research, I volunteer for the Newcomers project at [RFSL Göteborg](https://goteborg.rfsl.se).
 In my free time, I like to play mahjong, pole dance and game.
-

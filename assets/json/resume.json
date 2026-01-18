@@ -6,12 +6,6 @@
     "email": "daniel@schmytzi.com",
     "url": "https://schmytzi.com/",
     "summary": "Driven and team-oriented bioinformatician and activist",
-    "location": {
-      "address": "BMC, Husargatan 3",
-      "postalCode": "SE-751 22",
-      "city": "Uppsala",
-      "countryCode": "SE"
-    },
     "profiles": [
       {
         "network": "LinkedIn",
@@ -61,13 +55,31 @@
   ],
   "work": [
     {
+      "name": "University of Gothenburg",
+      "location": "Gothenburg, Sweden",
+      "position": "Bioinformatician",
+      "startDate": "2024-09-15",
+      "endDate": "present",
+      "summary": "Clinical Genomics for rare diseases, long-read sequencing",
+      "highlights": [
+        "Responsible for implementation of long-read sequencing analysis pipeline",
+        "for Sahlgrenska University Hospital",
+        "Maintained and improved routine WGS analyses for rare diseases",
+        "Performed data analysis for various genomics research projects",
+        "Organized long-read data visualization workshop for national conference"
+      ]
+    },
+    {
       "name": "Uppsala University",
       "location" : "Uppsala, Sweden",
       "position": "Researcher",
       "startDate": "2024-03-01",
-      "endDate": "present",
+      "endDate": "2024-09-14",
       "summary": "Medical Genetics, Genetic Epidemiology, Bioinformatics",
-      "highlights": []
+      "highlights": [
+        "Prepared material for new precision medicine course",
+        "Contributed to supervision of Master project students"
+      ]
     },
     {
       "name": "Center for Human Genetics and Laboratory Diagnostics",
@@ -84,6 +96,15 @@
     }
   ],
   "volunteer": [
+    {
+      "organization": "RFSL Göteborg",
+      "position": "Volunteer",
+      "url": "https://goteborg.rfsl.se",
+      "startDate": "2024-09-01",
+      "endDate": "present",
+      "location": "Gothenburg, Sweden",
+      "summary": "Supported LGBTQ+ migrants and refugees in the Newcomers project"
+    },
     {
       "organization": "RFSL Uppsala",
       "position": "Chairperson",
@@ -148,50 +169,34 @@
   ],
   "skills": [
     {
-      "name": "R",
+      "name": "Project Management",
       "level": "Advanced",
-      "icon": "fa-solid fa-chart-simple",
-      "keywords": []
-    },
-    {
-      "name": "Java",
-      "level": "Advanced",
-      "icon": "fa-brands fa-java",
-      "keywords": []
-    },
-    {
-      "name": "Nextflow",
-      "level": "Advanced",
-      "icon": "fa-solid fa-shuffle",
+      "icon": "fa-solid fa-diagram-project",
       "keywords": [
       ]
     },
     {
-      "name": "UNIX shell",
-      "level": "Intermediate",
-      "icon": "fa-solid fa-terminal",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Python",
-      "level": "Intermediate",
-      "icon": "fa-brands fa-python",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "SQL",
-      "level": "Intermediate",
-      "icon": "fa-solid fa-table",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Microsoft Excel",
+      "name": "Databases",
       "level": "Advanced",
-      "icon": "fa-solid fa-file-excel",
+      "icon": "fa-solid fa-database",
       "keywords": [
+        "SQL"
+      ]
+    },
+    {
+      "name": "Software Development",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python", "Java", "Rust", "R", "Git"
+      ]
+    },
+    {
+      "name": "Software Integration",
+      "level": "Advanced",
+      "icon": "fa-solid fa-puzzle-piece",
+      "keywords": [
+        "Nextflow", "UNIX shell", "Snakemake"
       ]
     },
     {
@@ -200,26 +205,12 @@
       "icon": "fa-brands fa-readme",
       "keywords": [
       ]
-    },
-    {
-      "name": "Perl",
-      "level": "Intermediate",
-      "icon": "fa-solid fa-code",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Rust",
-      "level": "Basic",
-      "icon": "fa-brands fa-rust",
-      "keywords": [
-      ]
     }
   ],
   "languages": [
     {
       "language": "German",
-      "fluency": "Native speaker",
+      "fluency": "Mothertongue",
       "icon": ""
     },
     {
@@ -233,9 +224,17 @@
       "icon": ""
     },
     {
-      "language": "Portuguese",
-      "fluency": "Intermediate",
+      "language": "Brazilian Portuguese",
+      "fluency": "Advanced",
       "icon": ""
+    }
+  ],
+  "awards": [
+    {
+      "title": "von-Klinggräff-Medaille",
+      "date": "2025-05-31",
+      "awarder": "Verein Alter Corpsstudenten e.V.",
+      "summary": "Awarded for outstanding academic achievements and extracurricular activities"
     }
   ]
 }

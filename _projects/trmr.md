@@ -1,6 +1,6 @@
 ---
 layout: page
-title: TimeResolvedMR
+title: Time-resolved MR
 description: R package for Mendelian Randomization analysis using time-dependent effects
 redirect: https://github.com/AJResearchGroup/TimeResolvedMR
 img: 
